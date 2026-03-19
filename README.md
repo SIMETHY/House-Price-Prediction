@@ -77,10 +77,10 @@ A regression-based project to predict house prices using various input features.
  
 
 ## 📂 Project Structure
-├── Retail_Sales_and_Profit_Prediction.ipynb
-├── house_price_regression_dataset.csv
-├── README.md
-├── requirements.txt
+- ├── Retail_Sales_and_Profit_Prediction.ipynb
+- ├── house_price_regression_dataset.csv
+- ├── README.md
+- ├── requirements.txt
 
 
 ## 🚀 How to Run
