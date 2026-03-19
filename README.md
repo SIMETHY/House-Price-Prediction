@@ -88,7 +88,7 @@ A regression-based project to predict house prices using various input features.
 ## 🚀 How to Run
 
 # Clone the repository
-git clone https://github.com/your-username/House-Price-Prediction.git
+git clone https://github.com/SIMETHY/House-Price-Prediction.git
 
 # Navigate to project folder
 cd House-Price-Prediction
